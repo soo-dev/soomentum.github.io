@@ -1,2 +1,9 @@
-# soomentum.github.io
-노마드코더의 바닐라js 모멘텀 
+# soomentum link:https://soo-dev.github.io/soomentum.github.io/
+
+
+copyright ↓
+https://nomadcoders.co/javascript-for-beginners
+
+
+
+
